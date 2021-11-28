@@ -3,6 +3,7 @@
 	"author":"klassic Dev",
 	"description":"learing backend development and API with nodejs on Fcc",
 	"keywords":["learning backend development","APIs development","micro-services","freecodecamp"],
+	"license":"MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
