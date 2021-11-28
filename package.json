@@ -4,7 +4,7 @@
 	"description":"learing backend development and API with nodejs on Fcc",
 	"keywords":["learning backend development","APIs development","micro-services","freecodecamp"],
 	"license":"MIT",
-	"version":"1.2.0",
+	"version":"1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
