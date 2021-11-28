@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author":"klassic Dev",
+	"description":"learing backend development and API with nodejs on Fcc",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
